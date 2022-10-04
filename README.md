@@ -1,6 +1,13 @@
 # Aprendizado de Maquina 1
 
-Repositório com o objetivo de guardar os algoritmos de aprendizado de maquina aprendidos na matéria de Aprendizado de Maquina 1
+Repositório com os trabalhos da matéria de Aprendizado de Máquina 1 (2022/1) da UFSCar ministrada pelo Prof. Dr. Murilo Coelho Naldi.
+
+Alunos responsáveis:
+  Gabriel Rodrigues Malaquias
+  Guilherme Lorençato
+  Philipe Fonseca Bittencourt
+  
+  
 
 DecisionTreeClassifier e KNeighborsClassifier estão sendo rodados em cima do dataset de cancer de mama do sklearn.
 
